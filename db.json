@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Poland Spring® 100% Natural Spring Water",
+      "description": "5 Gallon - Bottle - Pack of 3",
+      "imageUrl": "./assets/images/poland-spring.webp",
+      "price": 26.97,
+      "sellingPrice": 13.48,
+      "gallonPack": 3,
+      "offerInfo": "You qualify for our offer! *",
+      "productTerms": "(Not eligible for one-time purchase)",
+      "productInfo": "POLAND SPRING Brand 100% Natural Spring Water has been a local favorite in the Northeast for generations. Sourced from carefully selected springs in Maine since 1845, POLAND SPRING Spring Water contains naturally occurring minerals for a crisp, refreshing taste. So when you're looking for a trusted source of hydration for any occasion, choose POLAND SPRING. \n 5-gallon plastic jug: works with permanent hot/cold coolers placed in kitchen \nLarge size bottle is perfect for busy families that enjoy drinking lots of water \n100% natural spring water: no sweeteners, artificial colors or flavors\nContains naturally balanced minerals for a pure, crisp and refreshing taste\nEvery bottle is 100% recyclable (excluding label and cap)"
+    },
+    {
+      "id": 2,
+      "name": "Deer Park® 100% Natural Spring Water Spill Proof",
+      "description": "5 Gallon - Bottle - Pack of 3",
+      "imageUrl": "./assets/images/deer-park.webp",
+      "price": 26.97,
+      "sellingPrice": 13.48,
+      "gallonPack": 3,
+      "offerInfo": "You qualify for our offer! *",
+      "productTerms": "(Not eligible for one-time purchase)",
+      "productInfo": "DEER PARK Brand 100% Natural Spring Water has been a local favorite for generations. Sourced from carefully selected springs since 1873, DEER PARK Spring Water contains naturally occurring minerals for a crisp, clean taste. So when you're looking for a trusted source of hydration for any occasion, choose DEER PARK.\n 5-gallon plastic jug: works with permanent hot/cold coolers placed in kitchen \nLarge size bottle is perfect for busy families that enjoy drinking lots of water \n100% natural spring water: no sweeteners, artificial colors or flavors\nContains naturally balanced minerals for a pure, crisp and refreshing taste\nEvery bottle is 100% recyclable (excluding label and cap)"
+    },
+    {
+      "id": 3,
+      "name": "Poland Spring® 100% Natural Spring Water",
+      "description": "5 Gallon - Bottle - Pack of 4",
+      "imageUrl": "./assets/images/poland-spring-4.webp",
+      "price": 35.96,
+      "sellingPrice": 17.98,
+      "gallonPack": 4,
+      "offerInfo": "You qualify for our offer! *",
+      "productTerms": "(Not eligible for one-time purchase)",
+      "productInfo": "POLAND SPRING Brand 100% Natural Spring Water has been a local favorite in the Northeast for generations. Sourced from carefully selected springs in Maine since 1845, POLAND SPRING Spring Water contains naturally occurring minerals for a crisp, refreshing taste. So when you're looking for a trusted source of hydration for any occasion, choose POLAND SPRING. \n 5-gallon plastic jug: works with permanent hot/cold coolers placed in kitchen \nLarge size bottle is perfect for busy families that enjoy drinking lots of water \n100% natural spring water: no sweeteners, artificial colors or flavors\nContains naturally balanced minerals for a pure, crisp and refreshing taste\nEvery bottle is 100% recyclable (excluding label and cap)"
+    },
+    {
+      "id": 4,
+      "name": "Deer Park® 100% Natural Spring Water Spill Proof",
+      "description": "5 Gallon - Bottle - Pack of 4",
+      "imageUrl": "./assets/images/deer-park-4.webp",
+      "price": 35.96,
+      "sellingPrice": 17.98,
+      "gallonPack": 4,
+      "offerInfo": "You qualify for our offer! *",
+      "productTerms": "(Not eligible for one-time purchase)",
+      "productInfo": "DEER PARK Brand 100% Natural Spring Water has been a local favorite for generations. Sourced from carefully selected springs since 1873, DEER PARK Spring Water contains naturally occurring minerals for a crisp, clean taste. So when you're looking for a trusted source of hydration for any occasion, choose DEER PARK.\n 5-gallon plastic jug: works with permanent hot/cold coolers placed in kitchen \nLarge size bottle is perfect for busy families that enjoy drinking lots of water \n100% natural spring water: no sweeteners, artificial colors or flavors\nContains naturally balanced minerals for a pure, crisp and refreshing taste\nEvery bottle is 100% recyclable (excluding label and cap)"
+    },
+    {
+      "id": 5,
+      "name": "Poland Spring® 100% Natural Spring Water",
+      "description": "5 Gallon - Bottle - Pack of 5",
+      "imageUrl": "./assets/images/poland-spring-5.webp",
+      "price": 44.95,
+      "sellingPrice": 22.48,
+      "gallonPack": 5,
+      "offerInfo": "You qualify for our offer! *",
+      "productTerms": "(Not eligible for one-time purchase)",
+      "productInfo": "POLAND SPRING Brand 100% Natural Spring Water has been a local favorite in the Northeast for generations. Sourced from carefully selected springs in Maine since 1845, POLAND SPRING Spring Water contains naturally occurring minerals for a crisp, refreshing taste. So when you're looking for a trusted source of hydration for any occasion, choose POLAND SPRING. \n 5-gallon plastic jug: works with permanent hot/cold coolers placed in kitchen \nLarge size bottle is perfect for busy families that enjoy drinking lots of water \n100% natural spring water: no sweeteners, artificial colors or flavors\nContains naturally balanced minerals for a pure, crisp and refreshing taste\nEvery bottle is 100% recyclable (excluding label and cap)"
+    },
+    {
+      "id": 6,
+      "name": "Deer Park® 100% Natural Spring Water Spill Proof",
+      "description": "5 Gallon - Bottle - Pack of 5",
+      "imageUrl": "./assets/images/deer-park-5.webp",
+      "price": 44.95,
+      "sellingPrice": 22.48,
+      "gallonPack": 5,
+      "offerInfo": "You qualify for our offer! *",
+      "productTerms": "(Not eligible for one-time purchase)",
+      "productInfo": "DEER PARK Brand 100% Natural Spring Water has been a local favorite for generations. Sourced from carefully selected springs since 1873, DEER PARK Spring Water contains naturally occurring minerals for a crisp, clean taste. So when you're looking for a trusted source of hydration for any occasion, choose DEER PARK.\n 5-gallon plastic jug: works with permanent hot/cold coolers placed in kitchen \nLarge size bottle is perfect for busy families that enjoy drinking lots of water \n100% natural spring water: no sweeteners, artificial colors or flavors\nContains naturally balanced minerals for a pure, crisp and refreshing taste\nEvery bottle is 100% recyclable (excluding label and cap)"
+    }
+  ]
+}
